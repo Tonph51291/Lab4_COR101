@@ -10,11 +10,12 @@ import {
 import Bai1 from "../Bai1";
 import Bai2 from "../Bai2";
 import Bai3 from "../Bai3";
+import Bai4 from "../Bai4";
 
 export default function HomeScreen() {
   return (
     <SafeAreaView>
-      <Bai3 />
+      <Bai4 />
     </SafeAreaView>
   );
 }

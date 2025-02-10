@@ -11,11 +11,12 @@ import Bai1 from "../Bai1";
 import Bai2 from "../Bai2";
 import Bai3 from "../Bai3";
 import Bai4 from "../Bai4";
+import Bai5 from "../Bai5";
 
 export default function HomeScreen() {
   return (
     <SafeAreaView>
-      <Bai4 />
+      <Bai5 />
     </SafeAreaView>
   );
 }
